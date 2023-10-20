@@ -2,9 +2,6 @@ branch-defaults:
   default:
     environment: udagram-api-dev4
 environment-defaults:
-  udagram-api-dev:
-    branch: null
-    repository: null
   udagram-api-dev4:
     branch: null
     repository: null
