@@ -19,5 +19,3 @@
 #### 5- CircleCI deploys the frontend to S3 bucket and the backend to Elastic Beanstalk
 
 <br>
-
-### Pipeline illustration
