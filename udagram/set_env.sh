@@ -8,4 +8,5 @@ export AWS_BUCKET=arn:aws:s3:::udacity-udagram-bucket
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=mysecretstring
+export PORT=8080
 export URL=http://localhost:8100

@@ -2,7 +2,10 @@ branch-defaults:
   default:
     environment: udagram-api-dev
 environment-defaults:
-  udagram-api-dev3:
+  udagram-api-dev:
+    branch: null
+    repository: null
+  udagram-api-dev4:
     branch: null
     repository: null
 global:
@@ -14,6 +17,6 @@ global:
   instance_profile: null
   platform_name: null
   platform_version: null
-  profile: null
+  profile: eb-cli
   sc: null
   workspace_type: Application
